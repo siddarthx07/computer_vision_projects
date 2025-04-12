@@ -7,23 +7,7 @@ Welcome to the **Computer Vision Projects** repository! This repo contains a col
 ## 📁 Repository Structure
 
 ```bash
-computer_vision_projects/
-├── basic_image_processing/
-│   ├── edge_detection.py
-│   └── color_filters.py
-├── face_detection/
-│   ├── haar_cascade.py
-│   └── dnn_face_detector.py
-├── object_detection/
-│   ├── yolo_detection.py
-│   └── utils/
-├── image_classification/
-│   ├── cnn_model.py
-│   └── dataset_loader.py
-├── license_plate_detection/
-│   ├── plate_extractor.py
-│   └── ocr_reader.py
-└── README.md
+
 
 Featured Projects
 🔹 Basic Image Processing
